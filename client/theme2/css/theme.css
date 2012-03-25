@@ -3,10 +3,11 @@
 }
 
 p {
-  background-color: #222;
+  background-color: #fff;
   color: #eee;
 }
 
-a {
+a:link, a:visited {
   color: green;
 }
+cccccccccccccc
